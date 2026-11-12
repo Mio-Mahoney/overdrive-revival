@@ -1,0 +1,11 @@
+{
+  "name": "overdrive-revival",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A free web app that drives Anki Overdrive Fast & Furious Edition cars over Web Bluetooth.",
+  "type": "module",
+  "scripts": {
+    "start": "python3 -m http.server 8137",
+    "test": "node --test"
+  }
+}
